@@ -4,7 +4,8 @@ BetaFold is a deep-learning–based web application that predicts the secondary 
 
 # 🔗 Project Link
 Access the live application here:  
-[Project Link](PASTE YOUR LINK HERE)
+[Project Link]((https://beta-fold-15696080.base44.app/))
+Please input a valid email so that you can sign in because it requires you to add a secutiry code that will be sent to your email
 
 # What BetaFold Does
 - Validates FASTA amino-acid sequences (accepts only valid residues).
@@ -21,3 +22,9 @@ Access the live application here:
 # Input Format Example
 MVLSEGEWQLVLHVWAKVEADVAGHGQDILIRLFKSH
 The output comes on the basis of whether it is a helix, coil and sheets.
+
+Tech Stack
+- Frontend: React  
+- Backend: Python (Flask/FastAPI)  
+- Model: TensorFlow/PyTorch  
+- Dataset: PDB secondary structure labels  
