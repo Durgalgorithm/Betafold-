@@ -138,14 +138,5 @@ The server will start at `http://localhost:3000`.
 ```bash
 npm run build
 npm start
-```
-
----
-
-## 🔒 Security & Data Integrity
-
-- **Encrypted Transmission**: All PDB coordinate queries use HTTPS/TLS.
-- **Client-Side Privacy**: Sequence predictions and mutation simulations execute entirely in-browser without sending user protein sequences to external databases.
-- **Server-Side API Key Protection**: Gemini API keys are maintained exclusively within server-side execution scopes and are never leaked to client-side bundles.
 
 
