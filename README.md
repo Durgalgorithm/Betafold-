@@ -1,7 +1,10 @@
 # 🧬 Betafold — Protein Secondary Structure Prediction, 3D Molecular Simulation & Clinical Mutation Pathology Platform
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Access_Betafold_Platform-blue?style=for-the-badge&logo=google-chrome)](https://ais-pre-yognod7qxmimkzvksjdk4q-304205435735.asia-east1.run.app)
+
+
 ### 🌐 Live Application Link for Recruiters & Researchers
-[Live Demo](https://ais-dev-yognod7qxmimkzvksjdk4q-304205435735.asia-east1.run.app)
+> **Direct Live URL:** [https://ais-pre-yognod7qxmimkzvksjdk4q-304205435735.asia-east1.run.app](https://ais-pre-yognod7qxmimkzvksjdk4q-304205435735.asia-east1.run.app)  
 > *Click above to explore the running platform directly in your browser without local installation.*
 
 ---
@@ -138,5 +141,19 @@ The server will start at `http://localhost:3000`.
 ```bash
 npm run build
 npm start
+```
 
+---
 
+## 🔒 Security & Data Integrity
+
+- **Encrypted Transmission**: All PDB coordinate queries use HTTPS/TLS.
+- **Client-Side Privacy**: Sequence predictions and mutation simulations execute entirely in-browser without sending user protein sequences to external databases.
+- **Server-Side API Key Protection**: Gemini API keys are maintained exclusively within server-side execution scopes and are never leaked to client-side bundles.
+
+---
+
+## 👥 Authors & Acknowledgments
+- Developed with **Google AI Studio** and **Gemini**.
+- Benchmark coordinates provided by the **RCSB Protein Data Bank**.
+- Biophysical rendering enabled by **3Dmol.js**.

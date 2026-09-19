@@ -1,0 +1,6 @@
+{
+  "name": "Betafold",
+  "description": "Interactive protein secondary structure prediction, 3D molecular visualization, clinical mutation pathology, and biocomputational workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
