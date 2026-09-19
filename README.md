@@ -1,10 +1,7 @@
 # 🧬 Betafold — Protein Secondary Structure Prediction, 3D Molecular Simulation & Clinical Mutation Pathology Platform
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Access_Betafold_Platform-blue?style=for-the-badge&logo=google-chrome)](https://ais-pre-yognod7qxmimkzvksjdk4q-304205435735.asia-east1.run.app)
-
-
 ### 🌐 Live Application Link for Recruiters & Researchers
-> **Direct Live URL:** [https://ais-pre-yognod7qxmimkzvksjdk4q-304205435735.asia-east1.run.app](https://ais-pre-yognod7qxmimkzvksjdk4q-304205435735.asia-east1.run.app)  
+[Live Demo](https://ais-dev-yognod7qxmimkzvksjdk4q-304205435735.asia-east1.run.app)
 > *Click above to explore the running platform directly in your browser without local installation.*
 
 ---
