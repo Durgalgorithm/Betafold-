@@ -151,9 +151,4 @@ npm start
 - **Client-Side Privacy**: Sequence predictions and mutation simulations execute entirely in-browser without sending user protein sequences to external databases.
 - **Server-Side API Key Protection**: Gemini API keys are maintained exclusively within server-side execution scopes and are never leaked to client-side bundles.
 
----
 
-## 👥 Authors & Acknowledgments
-- Developed with **Google AI Studio** and **Gemini**.
-- Benchmark coordinates provided by the **RCSB Protein Data Bank**.
-- Biophysical rendering enabled by **3Dmol.js**.
